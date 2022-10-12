@@ -4,7 +4,7 @@
 
 - Meu nome é Edlane Santana, sou estudante concluinte em matemática e faço curso de especialização em ciência de dados; 
  
-- Busco atualmente a realização do meu sonho que é atuar na área de TI (realizar a transição de careira), aprendendo para desenvolver soluções para os negócios e desenvolvimento sustentável da economia;
+- Busco atualmente a realização do meu sonho que é atuar na área de TI (realizar a transição de carreira), aprendendo para desenvolver soluções para os negócios e desenvolvimento sustentável da economia;
 
 - Sou apaixonada por números, animais e livros.
 
