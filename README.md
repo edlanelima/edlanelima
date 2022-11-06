@@ -2,10 +2,8 @@
 
 <h3>Quem sou eu:</h3>
 
-- Meu nome é Edlane Santana, sou estudante concluinte em matemática e faço curso de especialização em ciência de dados; 
+- Meu nome é Edlane Santana, sou estudante concluinte em matemática e faço curso de ciência de dados e análise de negócios;
  
-- Busco atualmente a realização do meu sonho que é atuar na área de TI (realizar a transição de carreira), aprendendo para desenvolver soluções para os negócios e desenvolvimento sustentável da economia;
-
 - Sou apaixonada por números, animais e livros.
 
   ##
