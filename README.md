@@ -2,7 +2,7 @@
 
 <h3>Quem sou eu:</h3>
 
-- Meu nome é Edlane Santana, sou estudante concluinte em matemática e faço curso de ciência de dados e análise de negócios;
+- Meu nome é Edlane Santana, sou formada em matemática e possuo especialização em ciência de dados e análise de negócios;
  
 - Sou apaixonada por números, animais e livros.
 
